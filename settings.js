@@ -24,8 +24,8 @@ global.owneroff = false
 global.autopromosi = false
 
 //==== Waktu Jeda Jpm & Pushkon ====//
-global.delaypushkontak = 5000
-global.delayjpm = 13000
+global.delaypushkontak = 3000
+global.delayjpm = 2000
 
 //========== Setting Foto ===========//
 global.imgreply = "https://telegra.ph/file/23c925db6aec5af12023b.jpg"
